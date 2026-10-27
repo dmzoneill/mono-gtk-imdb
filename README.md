@@ -1,5 +1,9 @@
 # imdb
 
+<p align="center">
+  <img src=".github/logo.png" alt="mono-gtk-imdb logo" width="128" />
+</p>
+
 The start of a Mono GTK# IMDb browser.
 
 ## What it does
